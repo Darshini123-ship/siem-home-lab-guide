@@ -35,6 +35,4 @@ siem-home-lab-guide/
 │   └── wazuh_agent_config.conf    # Sample agent configuration file
 ├── detection-rules/
 │   └── brute_force_rule.xml       # Custom detection rule example
-├── screenshots/
-│   └── dashboard_preview.png      # Visualization dashboard placeholder
 └── README.md                      # Project documentation
